@@ -1,0 +1,10 @@
+body {
+	background-color: #010514;
+}
+
+.jumbotron {
+	color: white;
+	background-image: url("water-tower-far.JPG");
+	background-size: cover;
+	min-height: 700px;
+}
